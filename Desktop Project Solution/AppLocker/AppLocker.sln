@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppLocker", "AppLocker\AppLocker.csproj", "{54591F12-7DB8-4406-961E-FFFAD34E35E2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Multifunctional Locker", "Multifunctional Locker\Multifunctional Locker.vdproj", "{629757D3-A12B-4FBD-9E89-E90AC2DB69BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54591F12-7DB8-4406-961E-FFFAD34E35E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54591F12-7DB8-4406-961E-FFFAD34E35E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54591F12-7DB8-4406-961E-FFFAD34E35E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54591F12-7DB8-4406-961E-FFFAD34E35E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{629757D3-A12B-4FBD-9E89-E90AC2DB69BD}.Debug|Any CPU.ActiveCfg = Debug
+		{629757D3-A12B-4FBD-9E89-E90AC2DB69BD}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93E7E0BD-02D7-4104-B69F-AA132D71F330}
+	EndGlobalSection
+EndGlobal

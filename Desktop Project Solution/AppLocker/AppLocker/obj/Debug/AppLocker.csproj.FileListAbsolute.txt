@@ -1,0 +1,47 @@
+C:\Users\CHANNEL-01\source\repos\AppLocker\AppLocker\bin\Debug\AppLocker.exe.config
+C:\Users\CHANNEL-01\source\repos\AppLocker\AppLocker\bin\Debug\AppLocker.exe
+C:\Users\CHANNEL-01\source\repos\AppLocker\AppLocker\bin\Debug\AppLocker.pdb
+C:\Users\CHANNEL-01\source\repos\AppLocker\AppLocker\obj\Debug\AppLocker.Properties.Resources.resources
+C:\Users\CHANNEL-01\source\repos\AppLocker\AppLocker\obj\Debug\AppLocker.csproj.GenerateResource.Cache
+C:\Users\CHANNEL-01\source\repos\AppLocker\AppLocker\obj\Debug\AppLocker.csproj.CoreCompileInputs.cache
+C:\Users\CHANNEL-01\source\repos\AppLocker\AppLocker\obj\Debug\AppLocker.exe
+C:\Users\CHANNEL-01\source\repos\AppLocker\AppLocker\obj\Debug\AppLocker.pdb
+C:\Users\CHANNEL-01\source\repos\AppLocker\AppLocker\obj\Debug\AppLocker.Main.resources
+C:\Users\CHANNEL-01\source\repos\AppLocker\AppLocker\obj\Debug\AppLocker.setPassword.resources
+C:\Users\CHANNEL-01\source\repos\AppLocker\AppLocker\obj\Debug\AppLocker.AppLock.resources
+C:\Users\CHANNEL-01\source\repos\AppLocker\AppLocker\obj\Debug\AppLocker.Code.resources
+C:\Users\CHANNEL-01\source\repos\AppLocker\AppLocker\obj\Debug\AppLocker.Login.resources
+C:\Users\CHANNEL-01\source\repos\AppLocker\AppLocker\obj\Debug\AppLocker.FolderLock.resources
+C:\Users\CHANNEL-01\source\repos\AppLocker\AppLocker\obj\Debug\AppLocker.FileLock.resources
+C:\Users\CHANNEL-01\source\repos\AppLocker\AppLocker\obj\Debug\AppLocker.csprojResolveAssemblyReference.cache
+C:\Users\CHANNEL-01\Desktop\Time Based Project\AppLocker\AppLocker\bin\Debug\AppLocker.exe.config
+C:\Users\CHANNEL-01\Desktop\Time Based Project\AppLocker\AppLocker\bin\Debug\AppLocker.exe
+C:\Users\CHANNEL-01\Desktop\Time Based Project\AppLocker\AppLocker\bin\Debug\AppLocker.pdb
+C:\Users\CHANNEL-01\Desktop\Time Based Project\AppLocker\AppLocker\obj\Debug\AppLocker.csprojResolveAssemblyReference.cache
+C:\Users\CHANNEL-01\Desktop\Time Based Project\AppLocker\AppLocker\obj\Debug\AppLocker.AppLock.resources
+C:\Users\CHANNEL-01\Desktop\Time Based Project\AppLocker\AppLocker\obj\Debug\AppLocker.Code.resources
+C:\Users\CHANNEL-01\Desktop\Time Based Project\AppLocker\AppLocker\obj\Debug\AppLocker.FileLock.resources
+C:\Users\CHANNEL-01\Desktop\Time Based Project\AppLocker\AppLocker\obj\Debug\AppLocker.FolderLock.resources
+C:\Users\CHANNEL-01\Desktop\Time Based Project\AppLocker\AppLocker\obj\Debug\AppLocker.Login.resources
+C:\Users\CHANNEL-01\Desktop\Time Based Project\AppLocker\AppLocker\obj\Debug\AppLocker.Main.resources
+C:\Users\CHANNEL-01\Desktop\Time Based Project\AppLocker\AppLocker\obj\Debug\AppLocker.Properties.Resources.resources
+C:\Users\CHANNEL-01\Desktop\Time Based Project\AppLocker\AppLocker\obj\Debug\AppLocker.setPassword.resources
+C:\Users\CHANNEL-01\Desktop\Time Based Project\AppLocker\AppLocker\obj\Debug\AppLocker.csproj.GenerateResource.Cache
+C:\Users\CHANNEL-01\Desktop\Time Based Project\AppLocker\AppLocker\obj\Debug\AppLocker.csproj.CoreCompileInputs.cache
+C:\Users\CHANNEL-01\Desktop\Time Based Project\AppLocker\AppLocker\obj\Debug\AppLocker.exe
+C:\Users\CHANNEL-01\Desktop\Time Based Project\AppLocker\AppLocker\obj\Debug\AppLocker.pdb
+C:\Users\Channel04\Desktop\FYP Update\Time Based Project\AppLocker\AppLocker\bin\Debug\AppLocker.exe.config
+C:\Users\Channel04\Desktop\FYP Update\Time Based Project\AppLocker\AppLocker\obj\Debug\AppLocker.exe
+C:\Users\Channel04\Desktop\FYP Update\Time Based Project\AppLocker\AppLocker\obj\Debug\AppLocker.pdb
+C:\Users\Channel04\Desktop\FYP Update\Time Based Project\AppLocker\AppLocker\bin\Debug\AppLocker.exe
+C:\Users\Channel04\Desktop\FYP Update\Time Based Project\AppLocker\AppLocker\bin\Debug\AppLocker.pdb
+C:\Users\Channel04\Desktop\FYP Update\Time Based Project\AppLocker\AppLocker\obj\Debug\AppLocker.csprojResolveAssemblyReference.cache
+C:\Users\Channel04\Desktop\FYP Update\Time Based Project\AppLocker\AppLocker\obj\Debug\AppLocker.AppLock.resources
+C:\Users\Channel04\Desktop\FYP Update\Time Based Project\AppLocker\AppLocker\obj\Debug\AppLocker.Code.resources
+C:\Users\Channel04\Desktop\FYP Update\Time Based Project\AppLocker\AppLocker\obj\Debug\AppLocker.FileLock.resources
+C:\Users\Channel04\Desktop\FYP Update\Time Based Project\AppLocker\AppLocker\obj\Debug\AppLocker.FolderLock.resources
+C:\Users\Channel04\Desktop\FYP Update\Time Based Project\AppLocker\AppLocker\obj\Debug\AppLocker.Login.resources
+C:\Users\Channel04\Desktop\FYP Update\Time Based Project\AppLocker\AppLocker\obj\Debug\AppLocker.Main.resources
+C:\Users\Channel04\Desktop\FYP Update\Time Based Project\AppLocker\AppLocker\obj\Debug\AppLocker.Properties.Resources.resources
+C:\Users\Channel04\Desktop\FYP Update\Time Based Project\AppLocker\AppLocker\obj\Debug\AppLocker.setPassword.resources
+C:\Users\Channel04\Desktop\FYP Update\Time Based Project\AppLocker\AppLocker\obj\Debug\AppLocker.csproj.GenerateResource.Cache
